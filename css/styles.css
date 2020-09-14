@@ -1,10 +1,10 @@
 .first_div{
-  background-color:#ddf3f5;
+  background-image: url("back.png");
   text-align: center;
 
   padding-top: 80px;
   padding-left: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 400px;
 
 
 }
@@ -60,26 +60,10 @@ a{
 a:hover{
   color: #e7305b;
 }
-.right_cloud{
-  position: absolute;
-  right: 300px;
-  top: 300px;
-}
-
-.left_cloud{
-  position: absolute;
-  left: 300px;
-  top: 200px;
 
 
-}
 
 
-.top_cloud{
-  position: absolute;
-  left: 500px;
-  top: 30px;
-}
 
 .middle-container{
   background-color:#f6f4e6;
