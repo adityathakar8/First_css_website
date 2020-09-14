@@ -8,7 +8,14 @@
 
 
 }
+.container-fluid{
+  background-image: url("back.png");
+  text-align: center;
 
+  padding-top: 80px;
+  padding-left: 20px;
+  padding-bottom: 500px;
+}
 body{
   margin: 0px;
   text-align:center;
